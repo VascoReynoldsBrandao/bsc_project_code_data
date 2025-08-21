@@ -1,0 +1,9 @@
+[project]
+name = "cli"
+version = "0.1.0"
+description = ""
+authors = [ { name = "Vasco Reynolds Brandao", email = "v.m.reynolds.brandao@student.rug.nl" } ]
+dependencies = [ "click", "requests", "python-dotenv" ]
+
+[project.scripts]
+mycli = "project_cli.main:cli"
