@@ -1,0 +1,1 @@
+service=dnp3 and port=20000 

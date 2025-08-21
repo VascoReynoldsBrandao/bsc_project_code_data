@@ -1,0 +1,44 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Test coverage
+htmlcov/
+.coverage
+.cache/
+.tox/
+
+# Packaging
+*.whl
+*.tar.gz
+
+# Misc
+*.bak
+*.swp
+
+# Environment variables
+.env
+.envrc

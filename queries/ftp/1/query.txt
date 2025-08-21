@@ -1,0 +1,1 @@
+service=ftp and (port=20 or port=21) 
