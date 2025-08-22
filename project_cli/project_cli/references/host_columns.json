@@ -1,0 +1,13 @@
+[
+    "ip",
+    "fqdns",
+    "is_anycast",
+    "tags",
+    "cves",
+    "services",
+    "geo_city_name",
+    "geo_country_name",
+    "geo_country_iso_code",
+    "asn_number",
+    "asn_org"
+]

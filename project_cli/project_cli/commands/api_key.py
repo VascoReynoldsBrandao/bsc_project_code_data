@@ -1,7 +1,7 @@
 import os
 import click
 from dotenv import set_key
-from project_cli.project_cli.config.settings import ENV_PATH, get_api_key
+from project_cli.config.settings import ENV_PATH, get_api_key
 from project_cli.utils.key_validator import is_valid_modat_api_key
 
 @click.command()

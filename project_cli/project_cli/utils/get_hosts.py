@@ -1,14 +1,15 @@
 import time
+from datetime import datetime
 import requests
 import json
-from project_cli.project_cli.config.settings import  get_api_key
+import os
+from project_cli.config.settings import  get_api_key, get_data_dir
+from project_cli.utils.key_validator import is_valid_modat_api_key
 
-
-def get_host(query, page=1, page_size=100, save_json=False, path=None):
+def get_hosts(query, page=1, page_size=100, save_json=False):
     API_KEY = get_api_key()
-    if not API_KEY:
-        raise RuntimeError("MODAT_MAGNIFY_API_KEY is not set in the environment variables.")
-    
+    if not is_valid_modat_api_key(API_KEY):
+        raise RuntimeError("Invalid API key or not set")
     url = "https://api.magnify.modat.io/host/search/v1"
     headers = {
         "Accept": "application/json",
@@ -28,6 +29,11 @@ def get_host(query, page=1, page_size=100, save_json=False, path=None):
         raise RuntimeError(f"Error: {query}\n{response.text}")
     try:
         response_json = response.json()
+        if save_json:
+            now = datetime.now().strftime("%Y_%m_%d__%H_%M_%S")
+            file_path = os.path.join(get_data_dir(), f"hosts_{now}.json")  # <-- FIXED
+            with open(file_path, "w") as f:
+                json.dump(response_json, f, indent=4)
     except json.JSONDecodeError as e:
         raise RuntimeError("Error decoding JSON response.") from e
     
