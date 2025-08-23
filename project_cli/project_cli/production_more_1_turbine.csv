@@ -1,0 +1,61 @@
+geometry.coordinates.latitude,geometry.coordinates.longitude,properties.country,properties.dist_coast,properties.n_turbines,properties.name,properties.power_mw,properties.status,properties.year
+51.67,2.8,Belgium,43617.7932309,55.0,Belwind I,165.0,Production,2010
+51.54,2.94,Belgium,26229.4112244,6.0,Thorntonbank Part 1,30.45,Production,2008
+51.56,2.97,Belgium,26856.8753142,30.0,Thorntonbank Part 2,184.5,Production,2013
+51.54,2.92,Belgium,27111.3589111,18.0,Thorntonbank Part 3,110.7,Production,2013
+55.6,12.46,Denmark,292.456254704,3.0,Avedøre Holme,10.8,Production,2011
+55.03,12.94,Denmark,25751.5919655,72.0,Kriegers Flak,605.0,Production,2021
+56.661,8.221,Denmark,476.337831401,4.0,Rønland,8.0,Production,2003
+56.661,8.221,Denmark,476.337831401,4.0,Rønland,9.2,Production,2003
+55.72,10.58,Denmark,5333.28323803,9.0,Samso,20.7,Production,2003
+55.97,10.36,Denmark,2972.1075865,10.0,Tuno Knob,5.0,Production,1995
+65.668,24.545,Finland,787.926465333,8.0,Ajos Repowering,26.4,Production,2017
+65.668,24.545,Finland,787.926465333,5.0,Ajos Repowering,16.0,Production,2017
+61.608,21.26,Finland,5511.38505116,10.0,Pori-Tahkoluoto,42.0,Production,2017
+53.967,6.496,Germany,41846.5633473,20.0,Borkum Riffgrund II,166.6,Production,2018
+53.967,6.496,Germany,41846.5633473,36.0,Borkum Riffgrund II,298.8,Production,2018
+54.49,7.7,Germany,35425.7430333,38.0,Kaskasi,342.0,Production,2022
+54.402,7.707,Germany,26124.9292665,40.0,Meerwind Ost,151.2,Production,2015
+54.402,7.707,Germany,26124.9292665,40.0,Meerwind Süd,151.2,Production,2015
+40.485,17.135,Italy,1422.35646913,10.0,Taranto Offshore,30.0,Production,2022
+52.403,4.165,Netherlands,23795.1389396,43.0,Eneco Luchterduinen,129.0,Production,2015
+54.036,5.963,Netherlands,60905.8592221,150.0,Gemini,600.0,Production,2016
+52.67,4.27,Netherlands,24155.1050135,69.0,Hollandse Kust Noord Holland I - II,759.0,Production,2023
+52.72,5.58,Netherlands,6769.24355999,48.0,Westermeerdijk buitendijks,144.0,Production,2016
+53.0,5.26,Netherlands,4100.12194225,89.0,Windpark Fryslân,382.7,Production,2021
+61.33,2.7,Norway,100489.073499,11.0,Hywind Tampen,88.0,Production,2023
+39.88,-9.12,Portugal,11992.7208707,3.0,WindFloat Atlantic,25.0,Production,2020
+28.04,-15.36,Spain,3211.17407241,5.0,Plocan,50.0,Production,2017
+57.036,18.15,Sweden,2355.56619481,5.0,Bockstigen Offshore,2.75,Production,1998
+56.98,17.02,Sweden,5343.59621177,16.0,Karehamn,48.0,Production,2013
+55.509,12.763,Sweden,7813.54345421,21.0,Lillgrund,48.3,Production,2007
+55.509,12.763,Sweden,7813.54345421,15.0,Lillgrund,34.5,Production,2007
+55.509,12.763,Sweden,7813.54345421,12.0,Lillgrund,27.6,Production,2007
+59.265,13.378,Sweden,113427.734941,7.0,Vänern,21.0,Production,2009
+59.265,13.378,Sweden,113427.734941,3.0,Vänern,9.0,Production,2009
+55.17,-1.37,United Kingdom,8416.18422552,5.0,Blyth Offshore,41.5,Production,2017
+57.23,-1.99,United Kingdom,3440.14827434,2.0,EOWDC,17.6,Production,2018
+57.23,-1.99,United Kingdom,3440.14827434,9.0,EOWDC,75.6,Production,2018
+51.88,2.04,United Kingdom,39103.9647644,56.0,Galloper,353.0,Production,2018
+51.773,1.982,United Kingdom,44503.9932194,80.0,Greater Gabbard 1,288.0,Production,2012
+51.773,1.982,United Kingdom,44503.9932194,60.0,Greater Gabbard 2,216.0,Production,2012
+51.737,1.17,United Kingdom,5013.08620542,30.0,Gunfleet Sands 1,108.0,Production,2009
+51.737,1.17,United Kingdom,5013.08620542,18.0,Gunfleet Sands 2,64.8,Production,2009
+51.7,1.19,United Kingdom,9315.44523204,2.0,Gunfleet Sands 3 Demonstration,12.0,Production,2013
+53.9,1.79,United Kingdom,112580.223449,87.0,Hornsea Project One - Heron Wind,609.0,Production,2019
+53.92,1.56,United Kingdom,99070.4667818,165.0,Hornsea Project Two - Breesea and Optimus Wind,1386.0,Production,2022
+57.5,-1.3,United Kingdom,27996.1901128,5.0,Hywind Scotland Pilot Park,30.0,Production,2017
+51.45,1.079,United Kingdom,8722.30168338,15.0,Kentish Flats 2,49.5,Production,2015
+57.005,-1.849,United Kingdom,16418.7429668,5.0,Kincardine Offshore Windfarm Part 2,47.5,Production,2021
+53.157,0.412,United Kingdom,4129.82028919,27.0,Lynn and Inner Dowsing,97.2,Production,2008
+53.157,0.412,United Kingdom,4129.82028919,27.0,Lynn and Inner Dowsing,97.2,Production,2008
+54.756,-3.71,United Kingdom,10475.4820644,28.0,Robin Rigg,84.0,Production,2010
+54.756,-3.71,United Kingdom,10475.4820644,30.0,Robin Rigg,90.0,Production,2010
+56.611,-1.821,United Kingdom,36888.6633575,114.0,Seagreen,1075.0,Production,2023
+53.479,0.837,United Kingdom,40821.0930834,30.0,Triton Knoll Wind Farm Part 1,285.0,Production,2021
+53.479,0.837,United Kingdom,40821.0930834,30.0,Triton Knoll Wind Farm Part 2,285.0,Production,2021
+53.479,0.837,United Kingdom,40821.0930834,30.0,Triton Knoll Wind Farm Part 3,285.0,Production,2022
+54.087,-3.737,United Kingdom,29167.6670687,47.0,Walney Extension,329.0,Production,2018
+54.087,-3.737,United Kingdom,29167.6670687,40.0,Walney Extension,330.0,Production,2018
+53.81,-4.907,United Kingdom,26837.110949,51.0,Walney Phase 1,183.6,Production,2011
+54.081,-3.605,United Kingdom,22145.1036417,51.0,Walney Phase 2,183.6,Production,2012
