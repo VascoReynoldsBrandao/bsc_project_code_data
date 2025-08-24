@@ -1,0 +1,51 @@
+name,country,operator,vendor
+Belwind I,Belgium,Parkwind;Ostwind,Siemens Gamesa
+Thorntonbank Part 1,Belgium,C-Power;DEME,Senvion
+Thorntonbank Part 2,Belgium,C-Power;DEME,Siemens Gamesa
+Thorntonbank Part 3,Belgium,C-Power;DEME,Siemens Gamesa
+Avedøre Holme,Denmark,Ørsted,Siemens Gamesa
+Kriegers Flak,Denmark,Vattenfall,Siemens Gamesa
+Rønland,Denmark,Jysk Energi,Vestas
+Samso,Denmark,Samso Havvindmllelaug;E.ON,Vestas
+Tuno Knob,Denmark,Vattenfall;E.ON,Vestas
+Ajos Repowering,Finland,Metsähallitus;Suomen Hyötytuuli,Vestas
+Pori-Tahkoluoto,Finland,Suomen Hyötytuuli;Metsähallitus,Areva Wind;Siemens Gamesa
+Borkum Riffgrund II,Germany,Ørsted,Siemens Gamesa
+Kaskasi,Germany,RWE,Siemens Gamesa
+Meerwind Ost,Germany,WindMW;Global Infrastructure Partners,Siemens Gamesa
+Meerwind Süd,Germany,WindMW;Global Infrastructure Partners,Siemens Gamesa
+Taranto Offshore,Italy,Renexia,GE Renewable Energy
+Eneco Luchterduinen,Netherlands,Eneco;Mitsubishi Corporation,Siemens Gamesa
+Gemini,Netherlands,Siemens Financial Services;Northland Power;HVC;NVM,MHI Vestas
+Hollandse Kust Noord Holland I - II,Netherlands,Crosswind (Shell;Eneco),Siemens Gamesa
+Westermeerdijk buitendijks,Netherlands,Engie;DLL Group,Siemens Gamesa
+Windpark Fryslân,Netherlands,Windpark Fryslân BV (Van Oord;Siemens Financial Services),Siemens Gamesa
+Hywind Tampen,Norway,Equinor,Siemens Gamesa
+WindFloat Atlantic,Portugal,Ocean Winds (EDPR;Engie),MHI Vestas;Principle Power (WindFloat)
+Plocan,Spain,Esteyco;Energias de Portugal (EDP),Siemens Gamesa
+Bockstigen Offshore,Sweden,Svenska Kraftnät;Vattenfall,NEG Micon
+Karehamn,Sweden,E.ON,Vestas
+Lillgrund,Sweden,Vattenfall,Siemens Gamesa
+Vänern,Sweden,Vattenfall;Svenska Kraftnät,Siemens Gamesa
+Blyth Offshore,United Kingdom,EDF Renewables;Ørsted;ESB,MHI Vestas
+EOWDC,United Kingdom,Vattenfall,MHI Vestas
+Galloper,United Kingdom,Galloper Wind Farm Ltd (RWE;Green Investment Group;Siemens Financial Services;Ørsted),Siemens Gamesa
+Greater Gabbard 1,United Kingdom,SSE Renewables;RWE,Siemens Gamesa
+Greater Gabbard 2,United Kingdom,SSE Renewables;RWE,Siemens Gamesa
+Gunfleet Sands 1,United Kingdom,Ørsted,Siemens Gamesa
+Gunfleet Sands 2,United Kingdom,Ørsted,Siemens Gamesa
+Gunfleet Sands 3 Demonstration,United Kingdom,Ørsted,Siemens Gamesa
+Hornsea Project One - Heron Wind,United Kingdom,Ørsted,Siemens Gamesa
+Hornsea Project Two - Breesea and Optimus Wind,United Kingdom,Ørsted,Siemens Gamesa
+Hywind Scotland Pilot Park,United Kingdom,Equinor,Siemens Gamesa
+Kentish Flats 2,United Kingdom,Vattenfall,Vestas
+Kincardine Offshore Windfarm Part 2,United Kingdom,Cobra Group;Flotation Energy,Principle Power (WindFloat);MHI Vestas;Vestas
+Lynn and Inner Dowsing,United Kingdom,RWE,Siemens Gamesa
+Robin Rigg,United Kingdom,RWE,Siemens Gamesa
+Seagreen,United Kingdom,SSE Renewables;TotalEnergies,Vestas
+Triton Knoll Wind Farm Part 1,United Kingdom,RWE;J-Power;Kansai Electric Power,GE Renewable Energy;MHI Vestas;Vestas
+Triton Knoll Wind Farm Part 2,United Kingdom,RWE;J-Power;Kansai Electric Power,GE Renewable Energy;MHI Vestas;Vestas
+Triton Knoll Wind Farm Part 3,United Kingdom,RWE;J-Power;Kansai Electric Power,GE Renewable Energy;MHI Vestas;Vestas
+Walney Extension,United Kingdom,Ørsted;PFA;PKA,Siemens Gamesa;MHI Vestas
+Walney Phase 1,United Kingdom,Ørsted;PFA;PKA,Siemens Gamesa
+Walney Phase 2,United Kingdom,Ørsted;PFA;PKA,Siemens Gamesa

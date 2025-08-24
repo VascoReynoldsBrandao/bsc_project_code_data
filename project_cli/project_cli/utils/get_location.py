@@ -32,4 +32,4 @@ def get_location(ip):
             "region": region
         }
     else:
-        return {"error": "Unable to retrieve location"}
+        raise RuntimeError(f"Error fetching location for IP {ip}: {response.status_code} - {response.text}")
