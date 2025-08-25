@@ -10,8 +10,8 @@ def format_host_services(df):
     )
     return df
 
-def extract_services(response):
-    pages = response["page"]
+def extract_services(response_pages):
+    pages = response_pages
     df = pd.json_normalize(pages, sep='_')
     df = df.apply(lambda col: col.map(lambda x: x if not isinstance(x, list) else ', '.join(map(str, x))))
     
@@ -27,8 +27,8 @@ def extract_services(response):
     
     return df
 
-def extract_hosts(response):
-    pages = response["page"]
+def extract_hosts(response_pages):
+    pages = response_pages
     df = pd.json_normalize(pages, sep='_')
     df = format_host_services(df)
     df = df.apply(lambda col: col.map(lambda x: x if not isinstance(x, list) else ', '.join(map(str, x))))
@@ -41,7 +41,7 @@ def extract_hosts(response):
     df = df.where(pd.notnull(df), None)
     df = df.replace('', None)
 
-    df = df.reindex(columns=get_service_cols(), fill_value=None)
+    df = df.reindex(columns=get_host_cols(), fill_value=None)
 
     return df
 

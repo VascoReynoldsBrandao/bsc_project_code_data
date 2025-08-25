@@ -1,1 +1,0 @@
-service=siemens and port=102

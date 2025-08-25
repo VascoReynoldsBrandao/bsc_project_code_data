@@ -1,0 +1,32 @@
+protocol,query,ip,long,lat,distance,windfarm,farm_country,farm_long,farm_lat
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.99.214.253,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.4.155,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.65.193.74,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.235.24,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.231.30,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.69.12,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.122.111,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.39.90,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",104.248.197.169,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",128.199.42.147,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.46.28,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.100.45,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",142.93.232.3,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.37.17,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.29.224,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+modbus,"org~""Suomen"" and service=modbus and port=502 and country=FI and last_seen>2024-07-24",83.146.235.237,21.4084,60.8004,90.15216897317596,Pori-Tahkoluoto,Finland,61.608,21.26
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",159.8.253.52,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",188.166.43.81,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",45.94.31.35,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",81.4.121.40,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",46.17.3.107,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.184.121.130,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",95.211.3.58,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.17.186.188,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.3,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.4,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",83.149.118.89,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.249,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.111.240,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",5.79.112.250,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.248,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165

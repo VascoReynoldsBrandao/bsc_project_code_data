@@ -1,0 +1,547 @@
+protocol,query,role,org_role,results,query_no_port,results_2,notes
+siemens,"org~""Siemens"" and service=siemens and port=102 and country=DE and last_seen>2024-07-24",Used in SCADA and ICS for real-time turbine and substation control.,SCADA and substation automation vendor,25,"org~""Siemens"" and service=siemens and country=DE and last_seen>2024-07-24",25,"{  ""ip"": ""37.81.135.107"",  ""city"": ""Bremen"",  ""region"": ""City state Bremen"",  ""country"": ""DE"",  ""loc"": ""53.0758,8.8072"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""28195"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""85.183.149.115"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS6805 Telefonica Germany GmbH & Co.OHG"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""217.78.162.252"",  ""city"": ""Sinsheim"",  ""region"": ""Baden-Wurttemberg"",  ""country"": ""DE"",  ""loc"": ""49.2529,8.8787"",  ""org"": ""AS41998 NetCom BW GmbH"",  ""postal"": ""74889"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""62.54.177.86"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS6805 Telefonica Germany GmbH & Co.OHG"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""85.183.150.31"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS6805 Telefonica Germany GmbH & Co.OHG"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""85.183.149.117"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS6805 Telefonica Germany GmbH & Co.OHG"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""213.149.65.130"",  ""city"": ""Munich"",  ""region"": ""Bavaria"",  ""country"": ""DE"",  ""loc"": ""48.1374,11.5755"",  ""org"": ""AS15726 MARCANT AG"",  ""postal"": ""80097"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""213.149.65.129"",  ""city"": ""Munich"",  ""region"": ""Bavaria"",  ""country"": ""DE"",  ""loc"": ""48.1374,11.5755"",  ""org"": ""AS15726 MARCANT AG"",  ""postal"": ""80097"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""91.64.160.253"",  ""hostname"": ""ip5b40a0fd.dynamic.kabel-deutschland.de"",  ""city"": ""Stralsund"",  ""region"": ""Mecklenburg-Vorpommern"",  ""country"": ""DE"",  ""loc"": ""54.3091,13.0818"",  ""org"": ""AS3209 Vodafone GmbH"",  ""postal"": ""18439"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""46.16.217.214"",  ""hostname"": ""mdex-46-16-217-214.publicip.mdex.biz"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS200567 Wireless Logic mdex GmbH"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.83.1.83"",  ""city"": ""Ladenburg"",  ""region"": ""Baden-Wurttemberg"",  ""country"": ""DE"",  ""loc"": ""49.4731,8.6090"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""68526"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.84.16.65"",  ""city"": ""Hannover"",  ""region"": ""Lower Saxony"",  ""country"": ""DE"",  ""loc"": ""52.3705,9.7332"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""30159"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""79.232.101.75"",  ""hostname"": ""p4fe8654b.dip0.t-ipconnect.de"",  ""city"": ""Seubersdorf"",  ""region"": ""Bavaria"",  ""country"": ""DE"",  ""loc"": ""49.1621,11.6271"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""93041"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""91.46.21.64"",  ""hostname"": ""p5b2e1540.dip0.t-ipconnect.de"",  ""city"": ""Deuerling"",  ""region"": ""Bavaria"",  ""country"": ""DE"",  ""loc"": ""49.0372,11.9105"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""93180"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.81.58.163"",  ""city"": ""Köln"",  ""region"": ""North Rhine-Westphalia"",  ""country"": ""DE"",  ""loc"": ""50.9333,6.9500"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""50667"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.85.204.72"",  ""city"": ""Alfter"",  ""region"": ""North Rhine-Westphalia"",  ""country"": ""DE"",  ""loc"": ""50.7333,7.0167"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""53347"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.82.126.220"",  ""city"": ""Leipzig"",  ""region"": ""Saxony"",  ""country"": ""DE"",  ""loc"": ""51.3396,12.3713"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""04103"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.81.62.26"",  ""city"": ""Köln"",  ""region"": ""North Rhine-Westphalia"",  ""country"": ""DE"",  ""loc"": ""50.9333,6.9500"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""50667"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.80.61.250"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.80.108.224"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.85.197.19"",  ""city"": ""Wiesbaden"",  ""region"": ""Hesse"",  ""country"": ""DE"",  ""loc"": ""50.0826,8.2493"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""65183"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.83.94.134"",  ""city"": ""Stuttgart"",  ""region"": ""Baden-Wurttemberg"",  ""country"": ""DE"",  ""loc"": ""48.7823,9.1770"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""70173"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.80.90.46"",  ""city"": ""Berlin"",  ""region"": ""State of Berlin"",  ""country"": ""DE"",  ""loc"": ""52.5244,13.4105"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""10119"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""91.64.158.188"",  ""hostname"": ""ip5b409ebc.dynamic.kabel-deutschland.de"",  ""city"": ""Stralsund"",  ""region"": ""Mecklenburg-Vorpommern"",  ""country"": ""DE"",  ""loc"": ""54.3091,13.0818"",  ""org"": ""AS3209 Vodafone GmbH"",  ""postal"": ""18439"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""37.84.98.122"",  ""city"": ""Hannover"",  ""region"": ""Lower Saxony"",  ""country"": ""DE"",  ""loc"": ""52.3705,9.7332"",  ""org"": ""AS3320 Deutsche Telekom AG"",  ""postal"": ""30159"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""}"
+siemens,"org~""GE"" and service=siemens and port=102 and country=GB and last_seen>2024-07-24",Used in SCADA and ICS for real-time turbine and substation control.,Turbine vendor with grid interface systems,6,"org~""GE"" and service=siemens and country=GB and last_seen>2024-07-24",6,"{  ""ip"": ""185.241.156.209"",  ""city"": ""Havant"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""50.8567,-0.9856"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""PO9"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""109.235.55.31"",  ""city"": ""London"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""51.5085,-0.1257"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""E1W"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""109.235.54.207"",  ""city"": ""London"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""51.5085,-0.1257"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""E1W"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""109.235.55.34"",  ""city"": ""London"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""51.5085,-0.1257"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""E1W"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""185.241.156.206"",  ""city"": ""Havant"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""50.8567,-0.9856"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""PO9"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""109.235.54.204"",  ""city"": ""London"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""51.5085,-0.1257"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""E1W"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth"""
+modbus,"org~""GE"" and service=modbus and port=502 and country=GB and last_seen>2024-07-24","Used in fieldbus communications for sensors, breakers, and PLCs in wind farms.",Turbine and grid interface vendor,5,"org~""GE"" and service=modbus and country=GB and last_seen>2024-07-24",5,"{  ""ip"": ""109.235.55.34"",  ""city"": ""London"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""51.5085,-0.1257"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""E1W"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""109.235.55.32"",  ""city"": ""London"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""51.5085,-0.1257"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""E1W"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""185.241.159.179"",  ""city"": ""Havant"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""50.8567,-0.9856"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""PO9"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""185.241.159.185"",  ""city"": ""Havant"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""50.8567,-0.9856"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""PO9"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""},{  ""ip"": ""185.241.159.182"",  ""city"": ""Havant"",  ""region"": ""England"",  ""country"": ""GB"",  ""loc"": ""50.8567,-0.9856"",  ""org"": ""AS207456 Pangea Connected Limited"",  ""postal"": ""PO9"",  ""timezone"": ""Europe/London"",  ""readme"": ""https://ipinfo.io/missingauth""}"
+dnp3,"org~""Siemens"" and service=dnp3 and port=20000 and country=DE and last_seen>2024-07-24",Used for telemetry and control of substations and remote energy infrastructure.,Substation/grid automation vendor,1,"org~""Siemens"" and service=dnp3 and country=DE and last_seen>2024-07-24",1,"{  ""ip"": ""46.16.222.96"",  ""hostname"": ""mdex46-16-222-96.public.mdex.de"",  ""city"": ""Taunusstein"",  ""region"": ""Hesse"",  ""country"": ""DE"",  ""loc"": ""50.1499,8.1521"",  ""org"": ""AS200567 Wireless Logic mdex GmbH"",  ""postal"": ""65219"",  ""timezone"": ""Europe/Berlin"",  ""readme"": ""https://ipinfo.io/missingauth""}"
+modbus,"(org~""eneco"" or web.html~""eneco"" or banner~""eneco"") and service=modbus and port=502 and country=DE and last_seen>2024-07-24","Fieldbus protocol used for communication with PLCs, turbines, sensors, or substations.","Eneco is an operator or co-owner of offshore wind farms in DE, and may deploy or maintain equipment running modbus services.",1,"(org~""eneco"" or web.html~""eneco"" or banner~""eneco"") and service=modbus and country=DE and last_seen>2024-07-24",1,"{
+  ""ip"": ""46.253.255.199"",
+  ""hostname"": ""dsl-46.253.255.199-dynamic.luenecom.de"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"
+dnp3,"(org~""siemens"" or web.html~""siemens"" or banner~""siemens"") and service=dnp3 and port=20000 and country=DE and last_seen>2024-07-24","Used in telemetry and communication with substations, control centers, and grid interfaces.",Siemens is a global supplier of control systems and SCADA devices used in turbines or substations in offshore wind farms.,1,"(org~""siemens"" or web.html~""siemens"" or banner~""siemens"") and service=dnp3 and country=DE and last_seen>2024-07-24",3,"{
+  ""ip"": ""46.16.222.96"",
+  ""hostname"": ""mdex46-16-222-96.public.mdex.de"",
+  ""city"": ""Taunusstein"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1499,8.1521"",
+  ""org"": ""AS200567 Wireless Logic mdex GmbH"",
+  ""postal"": ""65219"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}, {
+  ""ip"": ""37.82.190.142"",
+  ""city"": ""Munich"",
+  ""region"": ""Bavaria"",
+  ""country"": ""DE"",
+  ""loc"": ""48.1374,11.5755"",
+  ""org"": ""AS3320 Deutsche Telekom AG"",
+  ""postal"": ""80097"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}, {
+  ""ip"": ""37.81.140.34"",
+  ""city"": ""Lübeck"",
+  ""region"": ""Schleswig-Holstein"",
+  ""country"": ""DE"",
+  ""loc"": ""53.8689,10.6873"",
+  ""org"": ""AS3320 Deutsche Telekom AG"",
+  ""postal"": ""23539"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"
+ftp,"(org~""Windmw"" or web.html~""Windmw"" or banner~""Windmw"") and service=ftp and port=21 and country=DE and last_seen>2024-07-24","Used for data logging, firmware updates, SCADA log transfers, and maintenance operations.","Windmw is an operator or co-owner of offshore wind farms in DE, and may deploy or maintain equipment running ftp services.",2,"(org~""Windmw"" or web.html~""Windmw"" or banner~""Windmw"") and service=ftp and country=DE and last_seen>2024-07-24",2,"{
+  ""ip"": ""109.71.72.118"",
+  ""hostname"": ""srv-a-go.c-2178.maxcluster.net"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS47447 23M GmbH"",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}, {
+  ""ip"": ""185.88.212.38"",
+  ""hostname"": ""app-a-io.c-706.maxcluster.net"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS47447 23M GmbH"",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"
+ftp,"(org~""crosswind"" or web.html~""crosswind"" or banner~""crosswind"") and service=ftp and port=21 and country=NL and last_seen>2024-07-24","Used for data logging, firmware updates, SCADA log transfers, and maintenance operations.","Crosswind is an operator or co-owner of offshore wind farms in NL, and may deploy or maintain equipment running ftp services.",1,"(org~""crosswind"" or web.html~""crosswind"" or banner~""crosswind"") and service=ftp and country=NL and last_seen>2024-07-24",1,"{
+  ""ip"": ""131.180.122.135"",
+  ""hostname"": ""euclid.lr.tudelft.nl"",
+  ""city"": ""Delft"",
+  ""region"": ""South Holland"",
+  ""country"": ""NL"",
+  ""loc"": ""52.0067,4.3556"",
+  ""org"": ""AS1128 SURF B.V."",
+  ""postal"": ""2611"",
+  ""timezone"": ""Europe/Amsterdam"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"
+ftp,"(org~""eneco"" or web.html~""eneco"" or banner~""eneco"") and service=ftp and port=21 and country=NL and last_seen>2024-07-24","Used for data logging, firmware updates, SCADA log transfers, and maintenance operations.","Eneco is an operator or co-owner of offshore wind farms in NL, and may deploy or maintain equipment running ftp services.",9,"(org~""eneco"" or web.html~""eneco"" or banner~""eneco"") and service=ftp and country=NL and last_seen>2024-07-24",10,"{
+    ""ip"": ""217.18.74.175"",
+    ""hostname"": ""lin2.fietsersbond.nl"",
+    ""city"": ""Rotterdam"",
+    ""region"": ""South Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""51.9225,4.4792"",
+    ""org"": ""AS21221 Infopact Netwerkdiensten B.V."",
+    ""postal"": ""3011"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""149.210.161.15"",
+    ""hostname"": ""149-210-161-15.colo.transip.net"",
+    ""city"": ""Hendrik-Ido-Ambacht"",
+    ""region"": ""South Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""51.8442,4.6389"",
+    ""org"": ""AS20857 Signet B.V."",
+    ""postal"": ""3341"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""31.186.175.88"",
+    ""hostname"": ""server.themakleding.nu"",
+    ""city"": ""Lelystad"",
+    ""region"": ""Flevoland"",
+    ""country"": ""NL"",
+    ""loc"": ""52.5083,5.4750"",
+    ""org"": ""AS48635 Your Hosting B.V."",
+    ""postal"": ""8224"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""37.97.239.10"",
+    ""hostname"": ""37-97-239-10.colo.transip.net"",
+    ""city"": ""The Hague"",
+    ""region"": ""South Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""52.0767,4.2986"",
+    ""org"": ""AS20857 Signet B.V."",
+    ""postal"": ""2512"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""149.210.243.232"",
+    ""hostname"": ""server.damnengine.net"",
+    ""city"": ""Assendelft"",
+    ""region"": ""North Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""52.4683,4.7431"",
+    ""org"": ""AS20857 Signet B.V."",
+    ""postal"": ""1566"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""81.23.229.6"",
+    ""hostname"": ""globalswitch.as24730.net"",
+    ""city"": ""Haarlem"",
+    ""region"": ""North Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""52.3808,4.6368"",
+    ""org"": ""AS24730 Autonomous System for Netholding."",
+    ""postal"": ""2011"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""37.128.149.102"",
+    ""hostname"": ""vps-303361-6062.hosted.at.hostnet.nl"",
+    ""city"": ""Copenhagen"",
+    ""region"": ""Capital Region"",
+    ""country"": ""DK"",
+    ""loc"": ""55.6759,12.5655"",
+    ""org"": ""AS197902 Hostnet B.V."",
+    ""postal"": ""1072"",
+    ""timezone"": ""Europe/Copenhagen"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""149.210.235.118"",
+    ""hostname"": ""149-210-235-118.colo.transip.net"",
+    ""city"": ""Katwijk aan Zee"",
+    ""region"": ""South Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""52.2033,4.3986"",
+    ""org"": ""AS20857 Signet B.V."",
+    ""postal"": ""2225"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""81.207.6.18"",
+    ""hostname"": ""81-207-6-18.fixed.kpn.net"",
+    ""city"": ""Amsterdam"",
+    ""region"": ""North Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""52.3740,4.8897"",
+    ""org"": ""AS1136 KPN B.V."",
+    ""postal"": ""1012"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  },
+  {
+    ""ip"": ""92.68.97.22"",
+    ""hostname"": ""92-68-97-22.biz.kpn.net"",
+    ""city"": ""Rotterdam"",
+    ""region"": ""South Holland"",
+    ""country"": ""NL"",
+    ""loc"": ""51.9225,4.4792"",
+    ""org"": ""AS1136 KPN B.V."",
+    ""postal"": ""3011"",
+    ""timezone"": ""Europe/Amsterdam"",
+    ""readme"": ""https://ipinfo.io/missingauth""
+  "
+ftp,"(org~""windpark"" or web.html~""windpark"" or banner~""windpark"") and service=ftp and port=21 and country=NL and last_seen>2024-07-24","Used for data logging, firmware updates, SCADA log transfers, and maintenance operations.","Windpark may be involved in the offshore wind farm value chain (operation, ownership, or support services) in NL.",1,"(org~""windpark"" or web.html~""windpark"" or banner~""windpark"") and service=ftp and country=NL and last_seen>2024-07-24",1,"{
+  ""ip"": ""92.118.110.134"",
+  ""hostname"": ""koggenlandenergieneutraal.nl"",
+  ""city"": ""Lelystad"",
+  ""region"": ""Flevoland"",
+  ""country"": ""NL"",
+  ""loc"": ""52.5083,5.4750"",
+  ""org"": ""AS42433 LD4Unity B.V."",
+  ""postal"": ""8224"",
+  ""timezone"": ""Europe/Amsterdam"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"
+telnet,"(org~""GIP"" or web.html~""GIP"" or banner~""GIP"") and service=telnet and port=23 and country=DE and last_seen>2024-07-24",Legacy protocol for remote access to network and control equipment; seen in older configurations.,"Gip is an operator or co-owner of offshore wind farms in DE, and may deploy or maintain equipment running telnet services.",3,"(org~""GIP"" or web.html~""GIP"" or banner~""GIP"") and service=telnet and country=DE and last_seen>2024-07-24",13,"{
+  ""ip"": ""68.183.220.15"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS14061 DigitalOcean, LLC"",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""134.122.79.18"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS14061 DigitalOcean, LLC"",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""5.187.1.28"",
+  ""hostname"": ""dsde1032-22473.fornex.org"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS44051 Fornex Hosting S.L."",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""157.245.20.200"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS14061 DigitalOcean, LLC"",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""85.214.116.126"",
+  ""hostname"": ""h2966878.stratoserver.net"",
+  ""city"": ""Berlin"",
+  ""region"": ""State of Berlin"",
+  ""country"": ""DE"",
+  ""loc"": ""52.5244,13.4105"",
+  ""org"": ""AS6724 Strato GmbH"",
+  ""postal"": ""10119"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""185.229.119.67"",
+  ""hostname"": ""vmi2635016.contaboserver.net"",
+  ""city"": ""Essen"",
+  ""region"": ""North Rhine-Westphalia"",
+  ""country"": ""DE"",
+  ""loc"": ""51.4566,7.0123"",
+  ""org"": ""AS51167 Contabo GmbH"",
+  ""postal"": ""45127"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""85.215.70.3"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS8560 IONOS SE"",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""77.237.242.163"",
+  ""hostname"": ""ip-163-242-237-77.static.contabo.net"",
+  ""city"": ""Oer-Erkenschwick"",
+  ""region"": ""North Rhine-Westphalia"",
+  ""country"": ""DE"",
+  ""loc"": ""51.6420,7.2645"",
+  ""org"": ""AS51167 Contabo GmbH"",
+  ""postal"": ""45739"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""37.60.255.106"",
+  ""hostname"": ""redmail.aurages.net"",
+  ""city"": ""Essen"",
+  ""region"": ""North Rhine-Westphalia"",
+  ""country"": ""DE"",
+  ""loc"": ""51.4566,7.0123"",
+  ""org"": ""AS51167 Contabo GmbH"",
+  ""postal"": ""45127"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""75.119.129.149"",
+  ""hostname"": ""vmi2082695.contaboserver.net"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS51167 Contabo GmbH"",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""5.9.59.175"",
+  ""hostname"": ""static.175.59.9.5.clients.your-server.de"",
+  ""city"": ""Falkenstein"",
+  ""region"": ""Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""50.4779,12.3713"",
+  ""org"": ""AS24940 Hetzner Online GmbH"",
+  ""postal"": ""08520"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""3.67.193.62"",
+  ""hostname"": ""ec2-3-67-193-62.eu-central-1.compute.amazonaws.com"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS16509 amazon.com, Inc."",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""3.73.64.82"",
+  ""hostname"": ""ec2-3-73-64-82.eu-central-1.compute.amazonaws.com"",
+  ""city"": ""Frankfurt am Main"",
+  ""region"": ""Hesse"",
+  ""country"": ""DE"",
+  ""loc"": ""50.1155,8.6842"",
+  ""org"": ""AS16509 amazon.com, Inc."",
+  ""postal"": ""60306"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"
+telnet,"(org~""eneco"" or web.html~""eneco"" or banner~""eneco"") and service=telnet and port=23 and country=DE and last_seen>2024-07-24",Legacy protocol for remote access to network and control equipment; seen in older configurations.,"Eneco is an operator or co-owner of offshore wind farms in DE, and may deploy or maintain equipment running telnet services.",1,"(org~""eneco"" or web.html~""eneco"" or banner~""eneco"") and service=telnet and country=DE and last_seen>2024-07-24",14,"{
+  ""ip"": ""46.253.252.61"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""46.253.255.104"",
+  ""hostname"": ""dsl-46.253.255.104-dynamic.luenecom.de"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""46.253.252.106"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""185.209.107.201"",
+  ""city"": ""Bad Bevensen"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""53.0792,10.5813"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29549"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""46.253.246.17"",
+  ""hostname"": ""dsl-46.253.246.17-dynamic.luenecom.de"",
+  ""city"": ""Hamburg"",
+  ""region"": ""Hamburg"",
+  ""country"": ""DE"",
+  ""loc"": ""53.5507,9.9930"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""20038"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""46.253.253.121"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""46.253.253.35"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""185.209.107.165"",
+  ""city"": ""Bad Bevensen"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""53.0792,10.5813"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29549"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""46.253.255.155"",
+  ""hostname"": ""dsl-46.253.255.155-dynamic.luenecom.de"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""185.209.106.187"",
+  ""city"": ""Bad Bevensen"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""53.0792,10.5813"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29549"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""185.209.106.166"",
+  ""city"": ""Bad Bevensen"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""53.0792,10.5813"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29549"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""46.253.253.41"",
+  ""city"": ""Munster"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""52.9857,10.0876"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29633"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""185.209.106.159"",
+  ""city"": ""Bad Bevensen"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""53.0792,10.5813"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29549"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""185.209.106.95"",
+  ""city"": ""Bad Bevensen"",
+  ""region"": ""Lower Saxony"",
+  ""country"": ""DE"",
+  ""loc"": ""53.0792,10.5813"",
+  ""org"": ""AS201035 LueneCom Kommunikationsloesungen GmbH"",
+  ""postal"": ""29549"",
+  ""timezone"": ""Europe/Berlin"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"
+telnet,"(org~""ddl"" or web.html~""ddl"" or banner~""ddl"") and service=telnet and port=23 and country=NL and last_seen>2024-07-24",Legacy protocol for remote access to network and control equipment; seen in older configurations.,"Ddl is likely involved in engineering, financial services, or digital twins supporting infrastructure with telnet devices.",1,"(org~""ddl"" or web.html~""ddl"" or banner~""ddl"") and service=telnet and country=NL and last_seen>2024-07-24",2,"{
+  ""ip"": ""5.231.25.53"",
+  ""city"": ""Kerkrade"",
+  ""region"": ""Limburg"",
+  ""country"": ""NL"",
+  ""loc"": ""50.8658,6.0625"",
+  ""org"": ""AS209874 Tech Tide Portugal Unipessoal LDA"",
+  ""postal"": ""6461"",
+  ""timezone"": ""Europe/Amsterdam"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+},
+{
+  ""ip"": ""109.33.160.191"",
+  ""city"": ""Klaaswaal"",
+  ""region"": ""South Holland"",
+  ""country"": ""NL"",
+  ""loc"": ""51.7700,4.4458"",
+  ""org"": ""AS33915 Vodafone Libertel B.V."",
+  ""postal"": ""3286"",
+  ""timezone"": ""Europe/Amsterdam"",
+  ""readme"": ""https://ipinfo.io/missingauth""
+}"

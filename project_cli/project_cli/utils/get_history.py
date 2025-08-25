@@ -22,11 +22,11 @@ def get_history(since, ip, port, transport, save_json=False):
         "port": port,
         "transport": transport
     }
-    time.sleep(1)  # Adding a delay to avoid hitting rate limits
+    time.sleep(2)  # Adding a delay to avoid hitting rate limits
     response = requests.post(url, headers=headers, json=data)
     print(f"Status Code: {response.status_code}")
     if response.status_code != 200:
-        raise RuntimeError(f"Error: {query}\n{response.text}\ndata: {data}")
+        raise RuntimeError(f"Error: {ip}\n{response.text}\ndata: {data}")
     try:
         response_json = response.json()
         if save_json:

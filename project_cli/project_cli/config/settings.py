@@ -18,9 +18,9 @@ def get_data_dir():
 def get_host_cols():
     with open(os.path.join(REF_DIR, "host_columns.json")) as f:
         data = json.load(f)
-        return list(data.keys())
+        return data
 
 def get_service_cols():
     with open(os.path.join(REF_DIR, "service_columns.json")) as f:
         data = json.load(f)
-        return list(data.keys())
+        return data

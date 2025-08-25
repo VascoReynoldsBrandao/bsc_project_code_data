@@ -1,0 +1,151 @@
+protocol,query,ip,long,lat,distance,windfarm,farm_country,farm_long,farm_lat
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.99.214.253,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.99.214.253,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.99.214.253,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.4.155,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.4.155,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.4.155,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.65.193.74,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.65.193.74,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.65.193.74,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.235.24,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.235.24,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.235.24,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.231.30,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.231.30,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",159.223.231.30,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.69.12,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.69.12,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",167.71.69.12,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.122.111,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.122.111,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.122.111,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.39.90,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.39.90,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.39.90,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",104.248.197.169,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",104.248.197.169,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",104.248.197.169,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",128.199.42.147,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",128.199.42.147,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",128.199.42.147,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.46.28,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.46.28,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.46.28,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.100.45,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.100.45,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.100.45,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",142.93.232.3,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",142.93.232.3,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",142.93.232.3,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.37.17,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.37.17,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",209.38.37.17,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.29.224,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.29.224,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+siemens,"org~""Ocean"" and service=siemens and port=102 and country=NL and last_seen>2024-07-24",188.166.29.224,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Winds"" and service=ftp and port=21 and country=PT and last_seen>2024-07-24",103.117.126.85,-8.019,37.0459,1754.7832252027104,Kentish Flats 2,United Kingdom,51.45,1.079
+ftp,"org~""Winds"" and service=ftp and port=21 and country=PT and last_seen>2024-07-24",103.117.126.85,-8.019,37.0459,1214.0733252011796,Plocan,Spain,28.04,-15.36
+ftp,"org~""Winds"" and service=ftp and port=21 and country=PT and last_seen>2024-07-24",103.117.126.85,-8.019,37.0459,329.3868292926542,WindFloat Atlantic,Portugal,39.88,-9.12
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",159.8.253.52,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",159.8.253.52,5.475,52.5083,83.36350026862681,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",159.8.253.52,5.475,52.5083,56.556769329549255,Windpark Fryslân,Netherlands,53.0,5.26
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",188.166.43.81,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",188.166.43.81,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",188.166.43.81,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",45.94.31.35,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",45.94.31.35,5.475,52.5083,83.36350026862681,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",45.94.31.35,5.475,52.5083,56.556769329549255,Windpark Fryslân,Netherlands,53.0,5.26
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",81.4.121.40,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",81.4.121.40,5.475,52.5083,83.36350026862681,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",81.4.121.40,5.475,52.5083,56.556769329549255,Windpark Fryslân,Netherlands,53.0,5.26
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",46.17.3.107,5.475,52.5083,24.584278112039907,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",46.17.3.107,5.475,52.5083,83.36350026862681,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",46.17.3.107,5.475,52.5083,56.556769329549255,Windpark Fryslân,Netherlands,53.0,5.26
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.184.121.130,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.184.121.130,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.184.121.130,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",95.211.3.58,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",95.211.3.58,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",95.211.3.58,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.17.186.188,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.17.186.188,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",185.17.186.188,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.3,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.3,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.3,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.4,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.4,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",190.105.195.4,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",83.149.118.89,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",83.149.118.89,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",83.149.118.89,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.249,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.249,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.249,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.111.240,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.111.240,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.111.240,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",5.79.112.250,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",5.79.112.250,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",5.79.112.250,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.248,4.8897,52.374,49.28558252117767,Eneco Luchterduinen,Netherlands,52.403,4.165
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.248,4.8897,52.374,53.30269678056728,Hollandse Kust Noord Holland I - II,Netherlands,52.67,4.27
+ftp,"org~""Power"" and service=ftp and port=21 and country=NL and last_seen>2024-07-24",37.48.95.248,4.8897,52.374,60.489048791451,Westermeerdijk buitendijks,Netherlands,52.72,5.58
+modbus,"org~""Suomen"" and service=modbus and port=502 and country=FI and last_seen>2024-07-24",46.132.186.196,24.9354,60.1695,524.813463978469,Bockstigen Offshore,Sweden,57.036,18.15
+modbus,"org~""Suomen"" and service=modbus and port=502 and country=FI and last_seen>2024-07-24",46.132.186.196,24.9354,60.1695,255.11896870991868,Pori-Tahkoluoto,Finland,61.608,21.26
+modbus,"org~""Suomen"" and service=modbus and port=502 and country=FI and last_seen>2024-07-24",46.132.186.196,24.9354,60.1695,579.34024232478,Karehamn,Sweden,56.98,17.02
+modbus,"org~""Suomen"" and service=modbus and port=502 and country=FI and last_seen>2024-07-24",83.146.235.237,21.4084,60.8004,458.3405845741063,Bockstigen Offshore,Sweden,57.036,18.15
+modbus,"org~""Suomen"" and service=modbus and port=502 and country=FI and last_seen>2024-07-24",83.146.235.237,21.4084,60.8004,90.15216897317596,Pori-Tahkoluoto,Finland,61.608,21.26
+modbus,"org~""Suomen"" and service=modbus and port=502 and country=FI and last_seen>2024-07-24",83.146.235.237,21.4084,60.8004,477.2071286148115,Vänern,Sweden,59.265,13.378
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",134.90.247.181,14.7244,36.9257,447.6049133074659,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",134.90.247.181,14.7244,36.9257,1871.4461647473042,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",134.90.247.181,14.7244,36.9257,1872.1160083120722,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.141.49,9.1895,45.4643,817.7412038393263,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.141.49,9.1895,45.4643,816.9144479662101,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.141.49,9.1895,45.4643,817.4659949614534,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",91.80.161.240,12.5113,41.8919,417.26777645585577,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",91.80.161.240,12.5113,41.8919,1295.0719987798973,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",91.80.161.240,12.5113,41.8919,1295.5610849164575,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.133.143,10.5173,43.3062,630.9335809504602,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.133.143,10.5173,43.3062,1077.221185681212,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.133.143,10.5173,43.3062,1077.869899866618,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.245.200,8.8544,45.3141,818.5325312099375,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.245.200,8.8544,45.3141,817.7485657678459,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.245.200,8.8544,45.3141,818.4135089439995,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.147.194,7.5483,44.3907,866.0019433790328,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.147.194,7.5483,44.3907,865.4144520781329,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.147.194,7.5483,44.3907,866.5543039598059,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.242.102,8.8544,45.3141,818.5325312099375,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.242.102,8.8544,45.3141,817.7485657678459,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.242.102,8.8544,45.3141,818.4135089439995,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.129.198,10.5173,43.3062,630.9335809504602,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.129.198,10.5173,43.3062,1077.221185681212,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.129.198,10.5173,43.3062,1077.869899866618,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.7.253,12.5113,41.8919,417.26777645585577,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.7.253,12.5113,41.8919,1295.0719987798973,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.7.253,12.5113,41.8919,1295.5610849164575,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.130.136,10.5173,43.3062,630.9335809504602,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.130.136,10.5173,43.3062,1077.221185681212,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",151.59.130.136,10.5173,43.3062,1077.869899866618,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.241.190,8.8544,45.3141,818.5325312099375,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.241.190,8.8544,45.3141,817.7485657678459,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.241.190,8.8544,45.3141,818.4135089439995,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.242.219,8.8544,45.3141,818.5325312099375,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.242.219,8.8544,45.3141,817.7485657678459,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.242.219,8.8544,45.3141,818.4135089439995,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",83.224.187.142,14.2681,40.8522,245.20721495347019,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",83.224.187.142,14.2681,40.8522,1470.3345779363874,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",83.224.187.142,14.2681,40.8522,1470.681769864215,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.244.157,8.8544,45.3141,818.5325312099375,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.244.157,8.8544,45.3141,817.7485657678459,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.244.157,8.8544,45.3141,818.4135089439995,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.246.174,8.8544,45.3141,818.5325312099375,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.246.174,8.8544,45.3141,817.7485657678459,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.246.174,8.8544,45.3141,818.4135089439995,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.192.149.13,11.3387,44.4938,651.2840724559366,Taranto Offshore,Italy,40.485,17.135
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.192.149.13,11.3387,44.4938,1000.7073778788442,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.192.149.13,11.3387,44.4938,1000.9897360345548,Thorntonbank Part 2,Belgium,51.56,2.97
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.244.28,8.8544,45.3141,818.5325312099375,Thorntonbank Part 3,Belgium,51.54,2.92
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.244.28,8.8544,45.3141,817.7485657678459,Thorntonbank Part 1,Belgium,51.54,2.94
+modbus,"org~""Eni"" and service=modbus and port=502 and country=IT and last_seen>2024-07-24",2.193.244.28,8.8544,45.3141,818.4135089439995,Thorntonbank Part 2,Belgium,51.56,2.97

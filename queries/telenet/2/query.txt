@@ -1,1 +1,0 @@
-service=telnet and port=23
