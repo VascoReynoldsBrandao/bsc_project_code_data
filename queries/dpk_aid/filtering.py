@@ -23,5 +23,10 @@ df_3 = df_3.sort_values(by='ip')
 # Save final list of target IPs
 df_3.to_csv('target_ips.csv', index=False)
 
-df_4 = pd.DataFrame(df_2['ip'].unique(), columns=['ip'])
+df_4 = (
+    df_2.groupby('ip')['protocol']
+    .apply(lambda x: sorted(set(x)))  # Optional: sort the list
+    .reset_index()
+    .rename(columns={'protocol': 'protocols'})
+)
 df_4.to_csv('target_ips_unique.csv', index=False)
