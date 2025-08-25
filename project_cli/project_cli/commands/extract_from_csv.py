@@ -18,7 +18,21 @@ def services():
         return
     """Extract services from a CSV file."""
     df = extract_services_responses(file)
+    file_name = os.path.basename(file).split('.')[0]
 
-    df.to_csv(f"{DATA_DIR}/extracted_service_data.csv", index=False)
+    df.to_csv(f"{DATA_DIR}/{file_name}_extracted_service_data.csv", index=False)
     click.echo("✅ Services extracted successfully.")
 
+@extract_from_csv.command()
+def histories():
+    file = click.prompt("Enter the path to the CSV file", type=str)
+    if not os.path.exists(file):
+        print(f"❌ File does not exist: {file}")
+        return
+    """Extract histories from a CSV file."""
+    df = extract_histories_responses(file)
+
+    file_name = os.path.basename(file).split('.')[0]
+
+    df.to_csv(f"{DATA_DIR}/{file_name}_extracted_history_data.csv", index=False)
+    click.echo("✅ Histories extracted successfully.")

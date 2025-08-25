@@ -20,7 +20,7 @@ def services():
     if not os.path.exists(file):
         print(f"❌ File does not exist: {file}")
         return
-    
+    file_name = os.path.basename(file).split('.')[0]
     df = pd.read_csv(file)
     error_count = 0
     error_rows = []
@@ -44,8 +44,6 @@ def services():
                     response = get_services(query, page=page, page_size=page_size)
                     pages_json.extend(response["page"])
                     click.echo(f" {total_records} Results found for prompt. {int(total_records / (page_size*page))} Results Retrieved. ")
-            # row['results'] = pages_json
-            # row['n_results'] = total_records
             df.at[index, 'results'] = str(pages_json)
             df.at[index, 'n_results'] = total_records
             print(f"✅ Finished processing query of row {index}")
@@ -54,7 +52,7 @@ def services():
             error_rows.append(index)
             print(f"❌ Error processing query of row {index}: {e}")
     print(f"✅ Saving results to {file} with ❌{error_count} errors at rows {error_rows}")
-    output_file = f"{DATA_DIR}/queries_services_output.csv"
+    output_file = f"{DATA_DIR}/{file_name}_queries_services_output.csv"
     df.to_csv(output_file, index=False)
 
 @get_from_csv.command()
@@ -63,7 +61,7 @@ def hosts():
     if not os.path.exists(file):
         print(f"❌ File does not exist: {file}")
         return
-
+    file_name = os.path.basename(file).split('.')[0]
     df = pd.read_csv(file)
     error_count = 0
     error_rows = []
@@ -87,8 +85,6 @@ def hosts():
                     response = get_hosts(query, page=page, page_size=page_size)
                     pages_json.extend(response["page"])
                     click.echo(f" {total_records} Results found for prompt. {int(total_records / (page_size*page))} Results Retrieved. ")
-            # row['results'] = pages_json
-            # row['n_results'] = total_records
             df.at[index, 'results'] = pages_json
             df.at[index, 'n_results'] = total_records
             print(f"✅ Finished processing query of row {index}")
@@ -97,7 +93,7 @@ def hosts():
             error_rows.append(index)
             print(f"❌ Error processing query on row {index}: {e}")
     print(f"✅ Saving results to {file} with ❌{error_count} errors at rows {error_rows}")
-    output_file = f"{DATA_DIR}/queries_hosts_output.csv"
+    output_file = f"{DATA_DIR}/{file_name}_queries_hosts_output.csv"
     df.to_csv(output_file, index=False)
 
 @get_from_csv.command()
@@ -106,7 +102,7 @@ def histories():
     if not os.path.exists(file):
         print(f"❌ File does not exist: {file}")
         return
-
+    file_name = os.path.basename(file).split('.')[0]
     df = pd.read_csv(file)
     error_count = 0
     error_rows = []
@@ -120,8 +116,6 @@ def histories():
             response = get_history(since, ip, port, transport)
             print(f"✅ Finished processing query of row {index}")
             history_json = response["history"]
-            # row['results'] = history_json
-            # row['n_results'] = len(history_json)
             df.at[index, 'results'] = history_json
             df.at[index, 'n_results'] = len(history_json)
         except Exception as e:
@@ -129,5 +123,5 @@ def histories():
             error_rows.append(index)
             print(f"❌ Error processing query on row {index}: {e}")
     print(f"✅ Saving results to {file} with ❌{error_count} errors at rows {error_rows}")
-    output_file = f"{DATA_DIR}/history_queries.csv"
+    output_file = f"{DATA_DIR}/{file_name}_history_queries_output.csv"
     df.to_csv(output_file, index=False)

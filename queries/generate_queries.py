@@ -19,3 +19,5 @@ df['results'] = "..."
 
 # Save to CSV
 df.to_csv('queries.csv', index=False)
+df['query'] = "ip=" + df['ip'] + " and service=http"
+df.to_csv('http_queries.csv', index=False)
